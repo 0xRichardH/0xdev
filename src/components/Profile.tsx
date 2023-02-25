@@ -1,3 +1,4 @@
+import type React from "react"
 import { Artboard, Avatar, WindowMockup } from "react-daisyui"
 
 const Profile: React.FunctionComponent = () => {
